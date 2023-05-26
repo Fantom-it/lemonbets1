@@ -1287,7 +1287,7 @@ h1 {
     /* display: none; */
     width: 180px;
     height: 40px;
-    padding-right: 100%;
+    padding: 0;
   }
   .container6__link-button-adap {
     display: block;
